@@ -17,3 +17,10 @@ sudo apt update
 sudo apt --assume-yes install pritunl mongodb-org
 sudo systemctl start pritunl mongod
 sudo systemctl enable pritunl mongod
+
+fi
+
+echo
+echo "Thank you for using pritunl installer."
+echo "coding Fatih Özdemir SY"
+echo 
